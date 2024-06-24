@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Machine Learning**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://sid0702.github.io/Portfolio/#contact)**
 - 📫 How to reach me **siddharthnautiyal07@gmail.com**
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1jIlwgAAW2j4Je846oGqsDwYvNP-6tA3J/view?usp=drive_link)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1L9dcXG50BdYavhjpsgZvEwCYNZQv_rUx/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
